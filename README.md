@@ -1,6 +1,6 @@
 # Александр Клычников
 
-**Senior Backend Developer | Microsoft Dynamics AX/365 Specialist**
+**Senior Backend Developer | Microsoft Dynamics AX2012 Specialist**
 Это мое портфолио и блог, где я делюсь опытом разработки корпоративных систем.
 
 ---
