@@ -1,6 +1,6 @@
 # Александр
 
-**Senior Backend Developer | Microsoft Dynamics AX2012 Senior Developer**
+**Vibecode Nocode Developer | Microsoft Dynamics AX2012 Senior Developer**
 
 Это мое портфолио и блог, где я делюсь опытом разработки корпоративных систем.
 
